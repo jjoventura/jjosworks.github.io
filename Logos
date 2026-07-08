@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Graphic Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Graphic Design</h1>
+
+    <p>A collection of my graphic design work.</p>
+
+    <img src="images/design1.jpg" alt="Graphic Design Project 1" width="500">
+
+    <img src="images/design2.jpg" alt="Graphic Design Project 2" width="500">
+
+    <img src="images/design3.jpg" alt="Graphic Design Project 3" width="500">
+
+</body>
+</html>
